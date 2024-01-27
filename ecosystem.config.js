@@ -1,7 +1,7 @@
 module.exports = {
     apps: [
       {
-        name: "TS-Bot",
+        name: "TS-Bot-DB",
         script: "npm",
         args: "start",
         log_date_format: "YYYY-MM-DD HH:mm Z",

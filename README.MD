@@ -8,6 +8,7 @@
 4. More info on .env: 
 ```txt
     "TOKEN" is your Discord bot's token from the Discord developer portal (here: https://discord.com/developers/applications)
+    "DATABASE_URL" is your MongoDB connection URI/URL
     "timeZone" is the timezone you want the logs and other stuff to be in when posting to the console, etc. (full list here: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)
     "PREFIX" is the prefix you want to be used for prefix commands (ex: `!ping`)
 ```
